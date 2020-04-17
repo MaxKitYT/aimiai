@@ -1,0 +1,2 @@
+apiai
+discord.py
