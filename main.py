@@ -1,6 +1,7 @@
 import apiai
 import json
 import discord
+import os
 
 client = discord.Client()
 
