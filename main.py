@@ -6,7 +6,7 @@ import os
 client = discord.Client()
 
 def textMessage(s):
-    request = apiai.ApiAI('1d763f0c3ccf4ffdb29b3d6075245526').text_request()
+    request = apiai.ApiAI('token').text_request()
     
     request.lang = 'ru'
 
